@@ -1,0 +1,1 @@
+import{_ as d,o as r,c as a,ag as e}from"./chunks/framework.DoUXNnsN.js";const S=JSON.parse('{"title":"术语表","description":"","frontmatter":{},"headers":[],"relativePath":"术语表.md","filePath":"术语表.md"}'),c={name:"术语表.md"};function o(i,t,n,l,E,p){return r(),a("div",null,[...t[0]||(t[0]=[e("",3)])])}const y=d(c,[["render",o]]);export{S as __pageData,y as default};
